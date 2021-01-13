@@ -1,5 +1,8 @@
 body{
 		background-color: #212121;
+		width:960px;
+		margin-left: auto;
+		margin-right: auto;
 }
 .navigation{ 
 		background-color: #8C0000;
