@@ -61,9 +61,9 @@ h1{
 .homepic{
 		width: 1100px;
 		height: 600px;
-		margin-left: 380px;
-		margin-top: 130px;
-		margin-bottom: 130px;
+		margin-left: auto;
+		margin-top: auto;
+		margin-bottom: auto;
 }
 td{
 		border-spacing: 30px;
