@@ -59,6 +59,7 @@ h1{
 		margin-left: 200px;
 }
 .homepic{
+		display:block;
 		width: 1100px;
 		height: 600px;
 		margin-left: auto;
